@@ -2,7 +2,7 @@
 
 <!--
 **AmandaloveYang/AmandaloveYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[ ！[Anurag 的 GitHub 统计数据] ( https://github-readme-stats.vercel.app/api?username=AmandaloveYang ) ] ( https://github.com/anuraghazra/github-readme-stats ) 个人博客网站—— http://www.amandaloveyang.cn/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
