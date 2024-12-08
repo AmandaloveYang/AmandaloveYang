@@ -22,12 +22,13 @@
 - UI 框架: Element UI, Ant Design
 - 构建工具: Webpack, Vite
 - 版本控制: Git
+- 个人小程序：Free 信息
 
 ## 💼 项目展示
 
 <div align="center">
-  <a href="https://github.com/AmandaloveYang/boss-job-crawler">
-    <img align="center" src="https://avatars.githubusercontent.com/u/82722641?v=4" />
+   <a href="https://github.com/AmandaloveYang/boss-job-crawler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=boss-job-crawler&theme=radical&locale=cn" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
 </div>
@@ -38,10 +39,9 @@
 
 ## ⭐ 关于我
 
-- 🔭 我目前正在从事前端开发工作
-- 🌱 我正在学习 [nodejs]
-- 👯 我希望能在 [web 开发] 方面进行合作
-- 💬 欢迎向我咨询关于 [web 开发] 的问题
+- 🌱 我正在学习 nodejs
+- 👯 我希望能在 web 开发方面进行合作
+- 💬 欢迎向我咨询关于 web 开发的问题
 
 ---
 
