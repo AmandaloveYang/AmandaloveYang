@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
- <h2 align="center">Amanda Yang</h2>
+ <h2 align="center">AmandaloveYang</h2>
  <p align="center">一个热爱编程的前端开发者 👨‍💻</p>
 </p>
 
 <p align="center">
-  <a href="#项目展示">查看项目</a>
-  ·
   <a href="https://github.com/AmandaloveYang">个人主页</a>
 </p>
 
@@ -28,7 +26,7 @@
 ## 💼 项目展示
 
 <div align="center">
-  <a href="https://github.com/AmandaloveYang/AmandaloveYang">
+  <a href="https://github.com/AmandaloveYang/boss-job-crawler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=AmandaloveYang&theme=radical&locale=cn" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
@@ -36,8 +34,7 @@
 
 ## 📫 联系我
 
-- 邮箱: [你的邮箱]
-- 微信: [你的微信]
+- 邮箱: [yhrsc30@gmail.com]
 
 ## ⭐ 关于我
 
