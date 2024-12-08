@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/AmandaloveYang/boss-job-crawler">
-    <img align="center" src="https://github.com/AmandaloveYang/boss-job-crawler" />
+    <img align="center" src="https://avatars.githubusercontent.com/u/82722641?v=4" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
 </div>
