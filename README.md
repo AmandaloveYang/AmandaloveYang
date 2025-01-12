@@ -27,8 +27,8 @@
 ## 💼 项目展示
 
 <div align="center">
-   <a href="https://github.com/AmandaloveYang/boss-job-crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=boss-job-crawler&theme=radical&locale=cn" />
+   <a href="https://github.com/AmandaloveYang/ClearPage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=ClearPage&theme=radical&locale=cn" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
 </div>
