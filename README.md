@@ -47,7 +47,7 @@
 
 <div align="center">
    <a href="https://github.com/AmandaloveYang/ClearPage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=ClearPage&theme=radical&locale=cn" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
 </div>
